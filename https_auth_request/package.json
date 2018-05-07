@@ -1,0 +1,16 @@
+{
+  "name": "https_auth_request",
+  "version": "1.0.0",
+  "description": "Node snippet to make a https request using basic authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "https",
+    "rest"
+  ],
+  "author": "Veni Nadella",
+  "license": "ISC"
+}
